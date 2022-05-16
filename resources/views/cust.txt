@@ -1,0 +1,9 @@
+<!-- pswd : <input type="password" name="pwd" value="{{$cust->pwd}}"><br>
+    address : <input type="text" name="address" value="{{$cust->address}}"><br>
+    email : <input type="email" name="email" value="{{$cust->email}}"><br>
+    DOB : <input type="date" name="dob" value="{{$cust->dob}}"><br>
+    state : <input type="text" name="state" value="{{$cust->state}}"><br>
+    city : <input type="text" name="city" value="{{$cust->city}}"><br>
+    Gender : <input type="radio" name="gender" value="M" value="{{$cust->gender}}">M
+    <input type="radio" name="gender" value="F">F
+    <input type="radio" name="gender" value="O">Other -->
